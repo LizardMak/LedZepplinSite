@@ -5,28 +5,32 @@
   border: 2px solid green;
   padding: 4px
 }
+
 h2.title {
   text-align: center;
-  font-size:30px;
+  font-size: 30px;
   color: red;
 }
+
 .imgs {
-  margin:auto;
+  margin: auto;
   width: 250px;
-  height:auto;
-  border : 10px dotted black;
+  height: auto;
+  border: 10px dotted black;
   padding: 10px;
 }
+
 .albums {
   margin-right: 570px;
   float: left;
-  background-color:rgba(248, 248, 144, .9);
+  background-color: rgba(248, 248, 144, .9);
   width: 15%;
   border: 2px solid green;
   padding: 4px
 }
+
 body {
   background-image: url("../imgs/betterbackgroundzep.jpg");
-  background-size:cover;
-  background-repeat:no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
