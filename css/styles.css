@@ -1,6 +1,6 @@
 .sidebar {
   float: right;
-  background-color: rgb(248, 248, 144);
+  background-color: rgba(248, 248, 144, .9);
   width: 30%;
   border: 2px solid green;
   padding: 4px
@@ -20,8 +20,13 @@ h2.title {
 .albums {
   margin-right: 570px;
   float: left;
-  background-color:rgb(248, 248, 144);
+  background-color:rgba(248, 248, 144, .9);
   width: 15%;
   border: 2px solid green;
   padding: 4px
+}
+body {
+  background-image: url("../imgs/betterbackgroundzep.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
 }
